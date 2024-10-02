@@ -2,9 +2,10 @@ import Link from "next/link";
 
 const links = [
   { name: "accordion", href: "accordion" },
-  { name: "alert", href: "alert" },
-  { name: "button", href: "button" },
   { name: "alert-dialog", href: "alert-dialog" },
+  { name: "alert", href: "alert" },
+  { name: "badge", href: "badge" },
+  { name: "button", href: "button" },
   { name: "dialog", href: "dialog" },
 ];
 
