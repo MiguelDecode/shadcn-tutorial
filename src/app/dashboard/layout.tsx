@@ -19,6 +19,7 @@ const links = [
   { name: "menu-bar", href: "menu-bar" },
   { name: "otp", href: "otp" },
   { name: "progress", href: "progress" },
+  { name: "sheet", href: "sheet" },
 ];
 
 export default function DashboardLayout({
