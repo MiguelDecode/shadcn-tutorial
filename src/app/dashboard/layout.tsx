@@ -18,6 +18,7 @@ const links = [
   { name: "context-menu", href: "context-menu" },
   { name: "menu-bar", href: "menu-bar" },
   { name: "otp", href: "otp" },
+  { name: "progress", href: "progress" },
 ];
 
 export default function DashboardLayout({
