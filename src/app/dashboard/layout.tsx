@@ -23,6 +23,7 @@ const links = [
   { name: "skeleton", href: "skeleton" },
   { name: "slider", href: "slider" },
   { name: "sonner", href: "sonner" },
+  { name: "toast", href: "toast" },
 ].sort();
 
 export default function DashboardLayout({
